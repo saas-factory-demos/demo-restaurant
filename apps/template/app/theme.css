@@ -1,0 +1,10 @@
+/* 由 SaaS Factory 自動生成。 */
+@layer base {
+  :root {
+    --color-primary: #c9572c;
+    --color-accent: #f0c674;
+    --radius-base: 0.875rem;
+    --font-family-stack: var(--font-serif);
+    --density: normal;
+  }
+}
